@@ -1,4 +1,4 @@
-# BINNACLE HOSTEL 
+# FIBONACCI SERIES FX 
 
 *******************************
 
@@ -14,30 +14,15 @@ Mauricio Belduque
 
 # Que hace el proyecto?
 
-Con el desarrollo del proyecto Binnacle Hostel se busca ofrecer un producto software funcional por medio de una solución a la medida,
-especialmente analizada y diseñada para gestionar hostels de manera eficiente y rápida; solución que cubre las necesidades del día a 
-día en la industria, haciendo uso basicamente de algoritmos y estructuras de datos eficientes en tiempo de ejecución para soportar 
-múltiples registros, reservas, listar y gestionar todo tipo de reportes necesarios para la toma de decisiones futuras y correcciones 
-a gestiones inadecuadas según los reportes de las ventas.
+Calcula las series de Fibonacci de manera limitada en cualquiera de los dos metodos disponibles basados en estructuras iterativas,
+probando los limites de calculo y capturando sus posibles excepciones según la interacción del usuario.
 
 ********************************
 
 # Por qué el proyecto es útil?
 
-Inicialmente busca suplir problemas cotidianos para el personal administrativo o gerencial, pues en este tipo de negocio hotelero 
-generalmente no siempre se puede acceder a un aplicativo de gestión, ya que en su mayoría estos son de pago y sus licencias tienen un 
-alto coste que representa una importante suma de dinero para los pequeños hoteles que no tienen la misma capacidad y fluidez economica 
-que los grandes hoteles o cadenas. así la administración y gestión general diaria computarizada para los hostels será mas accequible. 
-Como factor común se puede identificar en este tipo de pequeños hoteles o microempresas de la industria, que no gestionan gran cantidad
-de datos e información de manera sistémica y formal. Binnacle Hostel se basa esencialmente en atender y contrarrestar dichas carencias
-dentro de la industria hotelera segmentada.
+Fibonacci Series FX fue desarrollado con fines didacticos y de aprendizaje para los demas desarrolladores o interesados, en conocer el funcionamiento de las estructuras iterativas mas conocidas como lo son el metodo iterativo y el metodo recursivo tipico y lo que conlleva el implementar en tiempo de ejecución cualquiera de los dos metodos disponibles en el programa, como tambien se da a conocer los limites del programa explicando las diferentes complejidades temporales que se pueden dar.
 
-********************************
-
-# Estado del proyecto
-
-Binnacle Hostel se encuentra en fase de desarrollo; parcialmente terminado, donde podrá encontrar funcionalidades basicas por el 
-momento para el registro y seguimiento de un huesped registrado dentro de un negocio tipo hostel.
 
 ********************************
 
@@ -48,7 +33,7 @@ momento para el registro y seguimiento de un huesped registrado dentro de un neg
 Actualmente el proyecto se encuentra abierto a cualquier tipo de sugerencia, comentario, colaboración o contribución; no dude en 
 proponer o solicitar cambios al proyecto. 
 Recuerde que el contacto para solicitar cualquier tipo de contribución es <m.belduque@hotmail.com>. 
-Enviame un correo con asunto: (Contribución BinnacleHostel).
+Enviame un correo con asunto: (Contribución FibonnaciSeriesFX).
 
 ********************************
 
@@ -57,30 +42,30 @@ Enviame un correo con asunto: (Contribución BinnacleHostel).
 - Java version "1.8.0_112" Java(TM) SE Runtime Environment (build 1.8.0_112-b15)   Java HotSpot(TM) 64-Bit Server VM 
   (build 25.112-b15, mixed mode).
 
-- Binnacle Hostel es soportado por SO linux y Windows.
+- Fibonacci Series FX es soportado por SO linux y Windows.
 
 - Soporta versiones de Windows XP, Windows Vist.
 
-- Binnacle Hostel es un sistema Open source que cuenta con una licencia GNU (General Public License).
+- Fibonacci Series FX es un sistema Open source que cuenta con una licencia GNU (General Public License).
 
 ********************************
 
 # Instrucciones
 
-Para instalar Binnacle Hostel en tu pc debes ejecutar el archivo (binnaclehostel.jar) de las siguientes formas:
+Para instalar Fibonacci Series FX en tu pc debes ejecutar el archivo (FibonacciSeriesFX.jar) de las siguientes formas:
 
 >Para Windows:
 
 1) haciendo doble click en el archivo .jar 
 2) Para ejecutar en consola simplemente debes abrir el cmd y buscar la ubicación del archivo escribir el comando java -jar 
-binnaclehostel.jar 
+FibonacciSeriesFX.jar 
 
 >Para Linux:
 
 1) Abre el terminal. Con Linux, haz doble clic en el archivo .jar para abrirlo como un archivo Zip para ver el contenido del archivo 
 .jar. En su lugar, haz clic en el botón derecho y selecciona "Abrir terminal."
 
-2) Ejecuta el siguiente comando: $>java -jar binnaclehostel.jar
+2) Ejecuta el siguiente comando: $>java -jar FibonacciSeriesFX.jar
 
 3) Abre tu archivo .jar haciendo doble clic (opcional). Si deseas ejecutar el archivo .jar haciendo doble clic, entonces quizás debas
 intentar cambiar el tipo de asociación de archivos en Linux (esto es similar para Windows). Asegúrate de que los comandos anteriores 
