@@ -11,13 +11,13 @@ import javafx.stage.Stage;
  * @author Mauricio Belduque <m.belduque@hotmail.com>
  */
 public class FibonacciSeriesFX extends Application {
-    
+
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("FXMLFibonacciAppView.fxml"));
-        
+
         Scene scene = new Scene(root);
-        
+
         stage.setTitle("Fibonacci Series");
         stage.getIcons().add(new Image("fibonacciseriesfx/resources/Typicons_e06b(0)_128.png"));
         stage.setResizable(false);
@@ -31,5 +31,5 @@ public class FibonacciSeriesFX extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    
+
 }
